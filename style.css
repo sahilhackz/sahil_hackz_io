@@ -1,0 +1,36 @@
+body {
+  background-color: #000;
+  color: #0f0;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 2rem;
+}
+
+.green {
+  color: #00ff00;
+}
+
+.white {
+  color: #ffffff;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #0f0;
+  font-weight: bold;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #0f0;
+  color: #000;
+  border-radius: 5px;
+  font-weight: bold;
+}
